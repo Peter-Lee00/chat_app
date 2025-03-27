@@ -3,11 +3,13 @@ simple chat app
 
 ### 03/24/2025 chat_app_ver1.0
 ### Added Friends Feature
-1. Home Page thtat shows recent chats
-![Screenshot_1742799639](https://github.com/user-attachments/assets/0beeef95-591e-4f92-9ad2-8df549c0e7c2)
-2. Moved Friends List to Menu bar
-![Screenshot_1742799645](https://github.com/user-attachments/assets/c9196312-e10b-4a0d-a96c-72a50430708b)
-3. Added function to delete friends from the list and go directly to chat
-![Screenshot_1742799648](https://github.com/user-attachments/assets/53e11844-7e37-46ef-a185-6909bd228972)
-4. Chat Room
-![Screenshot_1742799651](https://github.com/user-attachments/assets/1814c635-7088-4121-8f32-9c1c69224189)
+![Screenshot_1742799106](https://github.com/user-attachments/assets/2f5cd246-e968-4dce-a3c1-e92de43b1953)
+![Screenshot_1742799111](https://github.com/user-attachments/assets/66c81750-b9fa-4aca-a19b-433351277815)
+
+
+### 03/27/2025 chat_app_ver1.1
+### Added Custom User ID reqistration Feature
+![Screenshot_1743061263](https://github.com/user-attachments/assets/f326ec5c-0b1e-4fc0-a3a8-a6580e6e11fb)
+![Screenshot_1743062733](https://github.com/user-attachments/assets/a64076d0-7c29-485f-840d-4494449ef663)
+
+
